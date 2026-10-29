@@ -1,0 +1,18 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <a href="/">Home</a>
+  <a href="/more-info/contact.html">Contact me</a>
+  <a href="/more-info/myskill.html">My skill</a>
+  <h1>Wellcome To My Wedsite</h1>
+  <hr />
+  <h3>Nguyễn Trần Như Nhộng</h3>
+  
+  <a href="/more-info/contact.html"><img src="/images/tuhoc.cc.jpg" alt="Tự học" width=300></a>
+  <h3>About me</h3>
+  </body>
